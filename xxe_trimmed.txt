@@ -10,7 +10,7 @@
     <item>
         <description>1</description>
         <link>1</link>
-        <title>test</title>
+        <title>&external;</title>
     </item>
 </channel>
 </rss>
