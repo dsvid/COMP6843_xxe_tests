@@ -25,7 +25,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>&xxe;</title>
+		<title>&external;</title>
 		<link>https://blog.quoccabank.com/?p=42</link>
 					<comments>https://blog.quoccabank.com/?p=42#respond</comments>
 		
